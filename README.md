@@ -1,4 +1,4 @@
-# 📚 Biblioteca Digital — Matheus Silva
+# 📚 Biblioteca Digital — José Baptista
 
 > Sistema de gestão de biblioteca construído com microserviços (Spring Boot + Flask).  
 > **Projeto Lab Alternativo** — Microservices + DevOps + Cloud Academy 2026.
